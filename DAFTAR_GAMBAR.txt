@@ -1,0 +1,38 @@
+DAFTAR GAMBAR YANG PERLU DIDOWNLOAD
+=====================================
+Buat folder "images" di dalam folder dashboard, lalu download 15 gambar berikut.
+Format nama file HARUS PERSIS seperti di bawah (huruf kecil, pakai underscore).
+
+Struktur folder:
+dashboard/
+├── app.py
+├── vehicle_price_prediction.csv
+└── images/
+    ├── toyota_highlander.jpg
+    ├── toyota_corolla.jpg
+    ├── toyota_rav4.jpg
+    ├── toyota_camry.jpg
+    ├── toyota_tacoma.jpg
+    ├── honda_civic.jpg
+    ├── honda_accord.jpg
+    ├── honda_cr_v.jpg
+    ├── honda_odyssey.jpg
+    ├── honda_pilot.jpg
+    ├── bmw_3_series.jpg
+    ├── bmw_m3.jpg
+    ├── bmw_x3.jpg
+    ├── bmw_5_series.jpg
+    └── bmw_x5.jpg
+
+CARA DOWNLOAD:
+1. Buka Google Images
+2. Cari nama mobil (contoh: "Toyota Camry 2022 side view white background")
+3. Klik gambar → klik kanan → Save image as
+4. Rename sesuai nama file di atas
+5. Simpan di folder images/
+
+TIPS:
+- Pilih gambar dengan background putih/abu untuk tampilan lebih rapi
+- Resolusi minimal 400x300 px
+- Format .jpg atau .png sama-sama bisa (tapi nama file harus .jpg)
+- Kalau belum ada gambar pun dashboard tetap jalan, tampil ikon 🚗
